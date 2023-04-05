@@ -1,1 +1,2 @@
 # galeria
+# photo-gallery
